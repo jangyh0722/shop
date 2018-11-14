@@ -98,7 +98,7 @@ position: absolute; top:0; right:-0.5em;}
 .fur_panel > li:hover{color:#84b736;}
 .fur_panel > li:nth-child(2){font-weight: bold;}
 .fur_brand_panel{width:100%; position: absolute; bottom:0; background-color:#f1f1f1;}
-.fur_brand_panel > {float: left; width:25%; text-align: center; padding:0.5% 5%;}
+.fur_brand_panel > li {float: left; width:25%; text-align: center; padding:0.5% 5%;}
 
 .banner > li{display: none;}
 .banner .ban_img{position:absolute; width:50%; right:5%; top:calc(50% - 245px);}
