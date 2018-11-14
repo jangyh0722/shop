@@ -1,0 +1,11 @@
+{
+    "banner":[
+        {
+            "img":"../img/main/slider-main-demo-1.jpg"
+        },{
+            "img":"../img/main/slider-main-demo-2.jpg"
+        },{
+            "img":"../img/main/slider-main-demo-3.jpg"
+        }
+    ]
+}
