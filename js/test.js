@@ -6,7 +6,7 @@ var config = {
     storageBucket: "jangyh0722-mall.appspot.com",
     messagingSenderId: "383656927633"
   };
-  firebase.initializeApp(config);
+firebase.initializeApp(config);
 var db = firebase.database();
 var ref;
 (function initTest() {
